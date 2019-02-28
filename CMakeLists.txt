@@ -3,4 +3,4 @@ project(Roma)
 
 set(CMAKE_CXX_STANDARD 11)
 
-add_executable(Roma main.cpp)
+add_executable(Roma main.cpp Photo.h)
